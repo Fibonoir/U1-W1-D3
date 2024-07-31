@@ -1,0 +1,18 @@
+main {
+    width: 800px;
+    margin-inline: auto;
+}
+.img-header01 {
+    width: 10%;
+    display: block;
+    margin: 0 auto;
+}
+.div-header {
+    width: 100%;
+    text-align: center;
+    
+}
+.img-main01 {
+    width: 100%;
+    border-radius: 10px;
+}
