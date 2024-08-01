@@ -1,18 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0px;
+}
 main {
     width: 800px;
     margin-inline: auto;
+}
+h1 {
+    width: 80%;
+    text-align: center;
 }
 .img-header01 {
     width: 10%;
     display: block;
     margin: 0 auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 .div-header {
     width: 100%;
+    margin: 0;
     text-align: center;
+    color: rgb(16, 101, 69);
+    background-color: rgb(255, 250, 201);
+
     
 }
 .img-main01 {
     width: 100%;
     border-radius: 10px;
+}
+.image-p {
+    text-align: center;
+}
+.section{
+    border-left: solid orange;
+    padding-left: 10px;
+}
+.p-section{
+    margin-bottom: 0;
+}
+footer {
+    width: 800px;
+    margin-inline: auto;
 }
